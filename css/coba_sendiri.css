@@ -1,0 +1,123 @@
+@font-face {
+        font-family: cool;
+        src: url(MotionPicture_PersonalUseOnly.ttf);
+}
+@font-face {
+        font-family: tulisan_keren;
+        src: url(Marlboro.ttf);
+}
+
+a.coba{
+	font-family: 'tulisan_keren';
+	
+}
+h1.coba{
+	font-family: 'tulisan_keren';
+	
+	font-size: 130pt;
+}
+h2.coba{
+	font-family: 'tulisan_keren';
+	
+	/*font-size: 130pt;*/
+}
+h2.coba2{
+	font-family: 'tulisan_keren';
+	color: black;
+	/*font-size: 130pt;*/
+}
+h4.coba{
+	font-family: 'tulisan_keren';
+	color: white;
+	font-size: 20pt;
+}
+h3.coba{
+	font-family: 'tulisan_keren';
+	/*font-size: 50pt;
+	font-variant: inherit;*/
+}
+a.cool{
+	font-family: 'cool';
+	
+}
+h1.cool{
+	font-family: 'cool';
+	
+	font-size: 130pt;
+}
+h2.cool{
+	font-family: 'cool';
+	
+	/*font-size: 130pt;*/
+}
+h2.cool2{
+	font-family: 'cool';
+	color: black;
+	/*font-size: 130pt;*/
+}
+h3.cool{
+	font-family: 'cool';
+	/*font-size: 50pt;
+	font-variant: inherit;*/
+}
+h4.paket{
+	font-family: "Times New Roman", Times, serif;
+	
+}
+
+p.time {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+}
+h4.time {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+}
+h1.time {
+  font-family: "Times New Roman", Times, serif;
+ /* font-size: 20pt;*/
+}
+h3.time {
+  font-family: "Times New Roman", Times, serif;
+  background-color: lightblue;
+ /* font-size: 20pt;*/
+}
+h6.time {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+}
+a.time {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+}
+ul.time {
+	background-color: yellow;
+}
+.floatwa {
+position:fixed;
+bottom:0px;
+right: 0px;
+background-color:#ffffff;
+width:100%;
+z-index:1000;
+padding:2px;
+margin:auto;
+text-align:center;
+float:none;
+box-shadow: 0px -2px 10px #c0c0c0;
+}
+.tombolwa {
+border: 1px #56aa71 solid;
+background-color:#2f7e49;
+width:90%;
+padding:4px;
+text-align:center;
+margin:0;
+border-radius: 5px;
+margin:auto;
+text-align:center;
+float:none;
+}
+.floatwa a{
+color:white;
+}
